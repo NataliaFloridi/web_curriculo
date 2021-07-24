@@ -13,7 +13,7 @@ There are links to contact: LinkedIn, e-mail, phone and GitHub.
 
 ### Links
 
-- Live Site URL: [https://nataliafloridi.github.io/ProfileCard/](https://nataliafloridi.github.io/ProfileCard/)
+- Live Site URL: [https://nataliafloridi.github.io/web_curriculo/](https://nataliafloridi.github.io/web_curriculo/)
 
 ### Built with
 
