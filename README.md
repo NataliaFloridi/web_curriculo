@@ -9,7 +9,7 @@ There are links to contact: LinkedIn, e-mail, phone and GitHub.
 
 ### Screenshot
 
-![Screenshot Profile Card](https://github.com/NataliaFloridi/ProfileCard/blob/main/images/Screenshot.jpg)
+![Screenshot Curriculum](https://github.com/NataliaFloridi/web_curriculo/blob/main/imgs/screenshot.jpg)
 
 ### Links
 
